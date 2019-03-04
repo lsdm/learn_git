@@ -8,3 +8,6 @@ the second modified;
 test modified;
 
 modified on the dev branch;
+
+--------------------------------
+Creating a new branch is quick & simple.
