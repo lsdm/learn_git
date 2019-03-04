@@ -8,3 +8,5 @@ the second modified;
 test modified;
 
 modified on the dev branch;
+
+modified on the dev1 branch; prapare to resolve conflict.
