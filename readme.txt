@@ -17,3 +17,5 @@ Creating a new branch is quick & simple.
 
 尝试本地先pull后提交
 先pull后commit冲突验证（本地）
+
+再次进行rebase测试
