@@ -12,4 +12,5 @@ modified on the dev branch;
 --------------------------------
 Creating a new branch is quick & simple.
 
+新增测试内容
 本地修改内容（应是冲突行）
