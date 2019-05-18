@@ -32,3 +32,5 @@ rebase需要在push前进行！第三次尝试rebase。
 新建分支dev后本地第二次修改
 
 查看 git diff 的效果
+
+在bug01上进行的修改并提交
