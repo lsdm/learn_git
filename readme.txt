@@ -26,3 +26,7 @@ git rebase实验（本地）
 
 rebase需要在push前进行！第三次尝试rebase。
 第三次rebase实验（本地）
+
+新建分支dev后本地第一次修改
+
+新建分支dev后本地第二次修改
