@@ -21,4 +21,5 @@ Creating a new branch is quick & simple.
 再次进行rebase测试
 git rebase实验（本地）
 
+再次尝试rebase，有顺序，rebase需要在push前进行？
 第二次rebase实验（本地）
