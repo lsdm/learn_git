@@ -45,3 +45,5 @@ dev：rebase，第二次提交。
 remote修改，remote：master上rebase提交
 本地修改内容（dev：rebase提交03）
 本地修改内容（dev：rebase提交04）
+
+remote：远程stash测试专用
