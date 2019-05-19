@@ -49,3 +49,5 @@ remote修改，remote：master上rebase提交
 remote：远程stash测试专用
 专为stash测试
 add后暂存测试
+
+remote：pull相关测试
