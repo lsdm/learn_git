@@ -59,3 +59,5 @@ master：本地pull测试第1季
 
 remote：测试行1
 remote：测试行2
+master：本地commit测试第1季
+master：本地commit测试第2季
