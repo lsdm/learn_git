@@ -51,3 +51,5 @@ remote：远程stash测试专用
 add后暂存测试
 
 remote：pull相关测试
+master：本地stash+pull测试第一季
+master：本地stash+pull测试第二季
