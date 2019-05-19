@@ -37,3 +37,5 @@ rebase需要在push前进行！第三次尝试rebase。
 在dev上的修改，将进行一次暂存
 暂存后的修改
 中间bug01处理完毕，进行二次提交。
+
+在master上的提交，用于测试rebase
