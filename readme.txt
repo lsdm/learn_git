@@ -46,5 +46,6 @@ remote修改，remote：master上rebase提交
 本地修改内容（dev：rebase提交03）
 本地修改内容（dev：rebase提交04）
 
+remote：远程stash测试专用
 专为stash测试
 add后暂存测试
