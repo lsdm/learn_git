@@ -53,3 +53,5 @@ add后暂存测试
 remote：pull相关测试
 master：本地stash+pull测试第一季
 master：本地stash+pull测试第二季
+
+remote：pull相关测试2
